@@ -32,6 +32,19 @@ h1{
   font-size: 11px;
 }
 
+#judul_single{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#isi_single{
+  margin: 10px 0 15px 0;
+}
+
+#tag_single{
+  font-size: 12px;
+}
+
 #footer{
   margin-top: 30px;
 }
